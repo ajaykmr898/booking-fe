@@ -1,0 +1,27 @@
+.App-header {
+  background-color: #5d6565;
+}
+
+.title {
+  color: #fff;
+  margin-top: -5px;
+  text-align: center;
+}
+
+.back {
+  align-content: left;
+}
+
+.next {
+  float: right;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
